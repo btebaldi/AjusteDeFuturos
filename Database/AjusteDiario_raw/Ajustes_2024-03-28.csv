@@ -1,0 +1,637 @@
+Mercadoria,Vencimento,AjusteAnterior,AjusteAtual,Variacao,AjustePorContrato
+ABEVO - Contrato Futuro de ABEV3,J24,12.53,12.56,0.03,0.03
+ABEVO - Contrato Futuro de ABEV3,K24,12.62,12.66,0.04,0.04
+AFS - Rande da África do Sul (em USD),J24,18897.2,18936.25,39.05,103.28
+AFS - Rande da África do Sul (em USD),K24,18948.2,18983.2,35.0,92.57
+AFS - Rande da África do Sul (em USD),M24,19000.6,19035.7,35.1,92.83
+AFS - Rande da África do Sul (em USD),N24,19049.0,19083.6,34.6,91.51
+AFS - Rande da África do Sul (em USD),Q24,19106.3,19141.2,34.9,92.3
+AFS - Rande da África do Sul (em USD),U24,0.0,19200.0,0.0,0.0
+ARB - Peso Argentino (em Reais),J24,5.79,5.827,0.037,5.55
+ARB - Peso Argentino (em Reais),K24,5.486,5.581,0.095,14.25
+ARB - Peso Argentino (em Reais),M24,5.184,5.28,0.096,14.4
+ARB - Peso Argentino (em Reais),N24,4.891,4.984,0.093,13.95
+ARB - Peso Argentino (em Reais),Q24,4.657,4.728,0.071,10.65
+ARB - Peso Argentino (em Reais),U24,0.0,4.7,0.0,0.0
+ARS - Peso Argentino (em USD),J24,859709.5,857427.8,-2281.7,133.25
+ARS - Peso Argentino (em USD),K24,910179.0,900091.2,0.0,589.12
+ARS - Peso Argentino (em USD),M24,965680.7,953807.0,0.0,693.42
+ARS - Peso Argentino (em USD),N24,1026450.1,1013213.5,0.0,773.01
+ARS - Peso Argentino (em USD),Q24,1081237.7,1071616.8,-9620.9,561.86
+ARS - Peso Argentino (em USD),U24,0.0,1100000.0,0.0,0.0
+AUD - Dólar Australiano (em Reais),J24,3250.225,3259.521,9.296,557.76
+AUD - Dólar Australiano (em Reais),K24,3263.376,3276.988,13.612,816.72
+AUD - Dólar Australiano (em Reais),M24,3274.494,3288.299,13.805,828.3
+AUD - Dólar Australiano (em Reais),N24,3286.09,3299.72,13.63,817.8
+AUD - Dólar Australiano (em Reais),Q24,3298.823,3312.96,14.137,848.22
+AUD - Dólar Australiano (em Reais),U24,0.0,3320.0,0.0,0.0
+AUS - Dólar Australiano (em USD),J24,652.94,652.4,-0.54,27.04
+AUS - Dólar Australiano (em USD),K24,653.524,652.31,-1.214,60.79
+AUS - Dólar Australiano (em USD),M24,654.108,652.915,-1.193,59.74
+AUS - Dólar Australiano (em USD),N24,654.62,653.388,-1.232,61.69
+AUS - Dólar Australiano (em USD),Q24,655.08,653.909,-1.171,58.64
+AUS - Dólar Australiano (em USD),U24,0.0,654.0,0.0,0.0
+B3SAO - Contrato Futuro de B3SA3,J24,12.1,12.06,-0.04,0.04
+B3SAO - Contrato Futuro de B3SA3,K24,12.19,12.15,-0.04,0.04
+BBASO - Contrato Futuro de BBAS3,J24,56.33,56.96,0.63,0.63
+BBASO - Contrato Futuro de BBAS3,K24,56.75,57.38,0.63,0.63
+BBDCP - Contrato Futuro de BBDC4,J24,14.45,14.35,-0.1,0.1
+BBDCP - Contrato Futuro de BBDC4,K24,14.56,14.45,-0.11,0.11
+BGI - Boi gordo,H24,232.0,232.12,0.12,39.6
+BGI - Boi gordo,J24,229.95,229.1,-0.85,280.5
+BGI - Boi gordo,K24,229.95,227.45,-2.5,825.0
+BGI - Boi gordo,M24,230.55,228.45,-2.1,693.0
+BGI - Boi gordo,N24,234.4,233.25,-1.15,379.5
+BGI - Boi gordo,Q24,237.4,236.8,-0.6,198.0
+BGI - Boi gordo,U24,240.15,239.55,-0.6,198.0
+BGI - Boi gordo,V24,245.75,245.15,-0.6,198.0
+BGI - Boi gordo,X24,245.9,245.3,-0.6,198.0
+BGI - Boi gordo,Z24,247.85,247.25,-0.6,198.0
+BGI - Boi gordo,F25,243.45,242.85,-0.6,198.0
+BGI - Boi gordo,G25,0.0,230.0,0.0,0.0
+BGI - Boi gordo,Q25,217.1,216.55,-0.55,181.5
+BHIAO - Contrato Futuro de BHIA3,J24,6.31,6.81,0.5,0.5
+BHIAO - Contrato Futuro de BHIA3,K24,6.35,6.85,0.5,0.5
+BRI - Futuro do Índice Brasil 50,J24,21242.0,21322.0,80.0,800.0
+BRI - Futuro do Índice Brasil 50,M24,21602.0,21676.0,74.0,740.0
+BRI - Futuro do Índice Brasil 50,Q24,21950.0,22019.0,69.0,690.0
+CAD - Dólar Canadense (em Reais),J24,3667.596,3692.001,24.405,1464.3
+CAD - Dólar Canadense (em Reais),K24,3681.08,3711.815,30.735,1844.1
+CAD - Dólar Canadense (em Reais),M24,3691.959,3722.98,31.021,1861.26
+CAD - Dólar Canadense (em Reais),N24,3703.641,3734.761,31.12,1867.2
+CAD - Dólar Canadense (em Reais),Q24,3717.255,3748.733,31.478,1888.68
+CAD - Dólar Canadense (em Reais),U24,0.0,3760.0,0.0,0.0
+CAN - Dólar Canadense (em USD),J24,1357.247,1353.25,-3.997,147.83
+CAN - Dólar Canadense (em USD),K24,1356.533,1353.426,-3.107,114.91
+CAN - Dólar Canadense (em USD),M24,1355.932,1352.769,-3.163,116.99
+CAN - Dólar Canadense (em USD),N24,1355.381,1352.207,-3.174,117.39
+CAN - Dólar Canadense (em USD),Q24,1354.698,1351.495,-3.203,118.47
+CAN - Dólar Canadense (em USD),U24,0.0,1351.0,0.0,0.0
+CCM - Milho,K24,59.66,60.4,0.74,333.0
+CCM - Milho,N24,59.57,60.34,0.77,346.5
+CCM - Milho,U24,60.67,61.44,0.77,346.5
+CCM - Milho,X24,63.55,64.29,0.74,333.0
+CCM - Milho,F25,66.29,67.13,0.84,378.0
+CCM - Milho,H25,68.55,69.42,0.87,391.5
+CCM - Milho,K25,68.75,69.62,0.87,391.5
+CCM - Milho,N25,60.9,61.67,0.77,346.5
+CCM - Milho,U25,62.22,63.01,0.79,355.5
+CCROO - Contrato Futuro de CCRO3,J24,14.02,13.89,-0.13,0.13
+CCROO - Contrato Futuro de CCRO3,K24,14.12,13.97,-0.15,0.15
+CHF - Franco Suíço (em Reais),J24,5498.544,5547.019,48.475,2423.75
+CHF - Franco Suíço (em Reais),K24,5536.037,5591.17,55.133,2756.65
+CHF - Franco Suíço (em Reais),M24,5570.938,5626.561,55.623,2781.15
+CHF - Franco Suíço (em Reais),N24,5603.756,5659.723,55.967,2798.35
+CHF - Franco Suíço (em Reais),Q24,5642.307,5698.982,56.675,2833.75
+CHF - Franco Suíço (em Reais),U24,0.0,5740.0,0.0,0.0
+CHL - Peso Chileno (em USD),J24,979913.4,981710.0,1796.6,91.93
+CHL - Peso Chileno (em USD),K24,981428.5,982973.7,1545.2,79.06
+CHL - Peso Chileno (em USD),M24,982168.0,983704.7,1536.7,78.63
+CHL - Peso Chileno (em USD),N24,982500.6,984067.0,1566.4,80.15
+CHL - Peso Chileno (em USD),Q24,982849.1,983430.6,581.5,29.75
+CHL - Peso Chileno (em USD),U24,0.0,982000.0,0.0,0.0
+CIELO - Contrato Futuro de CIEL3,J24,5.42,5.43,0.01,0.01
+CIELO - Contrato Futuro de CIEL3,K24,5.45,5.46,0.01,0.01
+CLP - Peso Chileno (em Reais),J24,5079.9,5093.745,13.845,346.12
+CLP - Peso Chileno (em Reais),K24,5088.0,5110.6,22.6,565.0
+CLP - Peso Chileno (em Reais),M24,5096.9,5119.7,22.8,570.0
+CLP - Peso Chileno (em Reais),N24,5109.3,5131.9,22.6,565.0
+CLP - Peso Chileno (em Reais),Q24,5123.6,5151.7,28.1,702.5
+CLP - Peso Chileno (em Reais),U24,0.0,5171.0,0.0,0.0
+CMIGP - Contrato Futuro de CMIG4,J24,12.68,12.64,-0.04,0.04
+CMIGP - Contrato Futuro de CMIG4,K24,12.78,12.73,-0.05,0.05
+CNH - Iuan Chinês Offshore (em USD),J24,7254.233,7260.4,6.167,42.52
+CNH - Iuan Chinês Offshore (em USD),K24,7242.374,7252.052,9.678,66.73
+CNH - Iuan Chinês Offshore (em USD),M24,7229.798,7239.727,9.929,68.46
+CNH - Iuan Chinês Offshore (em USD),N24,7215.767,7226.595,10.828,74.66
+CNH - Iuan Chinês Offshore (em USD),Q24,7199.497,7209.714,10.217,70.45
+CNH - Iuan Chinês Offshore (em USD),U24,0.0,7200.0,0.0,0.0
+CNY - Iuan Chinês Onshore (em Reais),J24,6890.178,6912.812,22.634,792.19
+CNY - Iuan Chinês Onshore (em Reais),K24,6934.932,6978.022,43.09,1508.15
+CNY - Iuan Chinês Onshore (em Reais),M24,6974.329,7017.004,42.675,1493.62
+CNY - Iuan Chinês Onshore (em Reais),N24,7013.761,7055.79,42.029,1471.01
+CNY - Iuan Chinês Onshore (em Reais),Q24,7060.698,7104.391,43.693,1529.25
+CNY - Iuan Chinês Onshore (em Reais),U24,0.0,7150.0,0.0,0.0
+COGNO - Contrato Futuro de COGNO,J24,2.4,2.37,-0.03,0.03
+COGNO - Contrato Futuro de COGNO,K24,2.41,2.39,-0.02,0.02
+CSNAO - Contrato Futuro de CSNA3,J24,15.74,15.79,0.05,0.05
+CSNAO - Contrato Futuro de CSNA3,K24,15.86,15.91,0.05,0.05
+DAP - Cupom de DI x IPCA,J24,99722.85,99719.2,-3.65,6.26
+DAP - Cupom de DI x IPCA,K24,99155.43,99154.88,-0.55,0.94
+DAP - Cupom de DI x IPCA,M24,98539.64,98538.34,-1.3,2.23
+DAP - Cupom de DI x IPCA,N24,97905.55,97904.04,-1.51,2.59
+DAP - Cupom de DI x IPCA,Q24,97156.37,97153.82,-2.55,4.37
+DAP - Cupom de DI x IPCA,U24,96661.87,96659.93,-1.94,3.32
+DAP - Cupom de DI x IPCA,F25,94944.5,94927.3,-17.2,29.52
+DAP - Cupom de DI x IPCA,K25,93770.81,93745.26,-25.55,43.85
+DAP - Cupom de DI x IPCA,F26,90515.52,90504.72,-10.8,18.53
+DAP - Cupom de DI x IPCA,Q26,87859.06,87872.54,13.48,23.13
+DAP - Cupom de DI x IPCA,K27,84419.82,84438.65,18.83,32.31
+DAP - Cupom de DI x IPCA,Q28,78707.77,78734.78,27.01,46.35
+DAP - Cupom de DI x IPCA,K29,75492.97,75542.39,49.42,84.82
+DAP - Cupom de DI x IPCA,Q30,70577.67,70572.75,-4.92,8.44
+DAP - Cupom de DI x IPCA,Q32,62882.21,62927.62,45.41,77.93
+DAP - Cupom de DI x IPCA,K33,60391.38,60387.31,-4.07,6.98
+DAP - Cupom de DI x IPCA,K35,54046.39,54099.35,52.96,90.89
+DAP - Cupom de DI x IPCA,Q40,40488.3,40404.51,-83.79,143.81
+DAP - Cupom de DI x IPCA,K45,31866.41,31807.12,-59.29,101.76
+DAP - Cupom de DI x IPCA,Q50,23206.9,23136.38,-70.52,121.03
+DAP - Cupom de DI x IPCA,K55,17895.91,17816.31,-79.6,136.61
+DAP - Cupom de DI x IPCA,Q60,14341.49,14281.54,-59.95,102.89
+DAX - Contrato Futuro de DAX,M24,18744.0,18776.0,32.0,864.2
+DAX - Contrato Futuro de DAX,U24,18926.0,18958.0,32.0,864.2
+DAX - Contrato Futuro de DAX,Z24,19091.0,19124.0,33.0,891.21
+DCO - Cupom Cambial em OC1,J24,99804.16,100172.37,368.21,917.87
+DCO - Cupom Cambial em OC1,K24,99236.94,99836.84,599.9,1495.43
+DCO - Cupom Cambial em OC1,M24,98678.14,99275.54,597.4,1489.19
+DCO - Cupom Cambial em OC1,N24,98199.33,98792.94,593.61,1479.75
+DCO - Cupom Cambial em OC1,Q24,97669.11,98259.48,590.37,1471.67
+DCO - Cupom Cambial em OC1,U24,97145.92,97733.05,587.13,1463.59
+DCO - Cupom Cambial em OC1,V24,96653.64,97238.12,584.48,1456.99
+DCO - Cupom Cambial em OC1,X24,96124.08,96695.76,571.68,1425.08
+DCO - Cupom Cambial em OC1,Z24,95659.92,96227.53,567.61,1414.93
+DCO - Cupom Cambial em OC1,F25,95157.16,95719.94,562.78,1402.89
+DCO - Cupom Cambial em OC1,G25,94683.56,95235.13,551.57,1374.95
+DCO - Cupom Cambial em OC1,H25,94253.52,94799.94,546.42,1362.11
+DCO - Cupom Cambial em OC1,J25,93864.17,94397.73,533.56,1330.05
+DCO - Cupom Cambial em OC1,N25,92622.06,93140.13,518.07,1291.44
+DCO - Cupom Cambial em OC1,V25,91412.76,91917.12,504.36,1257.26
+DCO - Cupom Cambial em OC1,F26,90259.6,90735.28,475.68,1185.77
+DCO - Cupom Cambial em OC1,J26,89254.8,89730.94,476.14,1186.92
+DCO - Cupom Cambial em OC1,N26,88220.75,88685.73,464.98,1159.1
+DCO - Cupom Cambial em OC1,V26,87244.83,87678.52,433.69,1081.1
+DCO - Cupom Cambial em OC1,F27,86165.58,86583.95,418.37,1042.91
+DCO - Cupom Cambial em OC1,J27,85253.76,85659.39,405.63,1011.15
+DCO - Cupom Cambial em OC1,N27,84306.77,84701.58,394.81,984.18
+DCO - Cupom Cambial em OC1,V27,83308.18,83666.6,358.42,893.46
+DCO - Cupom Cambial em OC1,F28,82363.07,82707.82,344.75,859.39
+DCO - Cupom Cambial em OC1,J28,81476.04,81808.11,332.07,827.78
+DCO - Cupom Cambial em OC1,N28,80559.56,80909.39,349.83,872.05
+DCO - Cupom Cambial em OC1,V28,79577.66,79914.65,336.99,840.04
+DCO - Cupom Cambial em OC1,F29,78601.61,78956.63,355.02,884.99
+DCO - Cupom Cambial em OC1,J29,0.0,78023.28,0.0,0.0
+DCO - Cupom Cambial em OC1,F30,74894.38,75214.52,320.14,798.04
+DCO - Cupom Cambial em OC1,F31,71303.31,71627.34,324.03,807.74
+DCO - Cupom Cambial em OC1,F32,67870.06,68170.23,300.17,748.26
+DCO - Cupom Cambial em OC1,F33,64574.16,64891.24,317.08,790.41
+DCO - Cupom Cambial em OC1,F34,61255.63,61549.05,293.42,731.43
+DCO - Cupom Cambial em OC1,F35,58176.96,58455.3,278.34,693.84
+DCO - Cupom Cambial em OC1,F36,55339.44,55601.09,261.65,652.24
+DCO - Cupom Cambial em OC1,F37,52445.16,52690.19,245.03,610.81
+DCO - Cupom Cambial em OC1,F38,49886.44,50115.74,229.3,571.59
+DCO - Cupom Cambial em OC1,F39,47590.86,47811.76,220.9,550.65
+DDI - Cupom cambial,J24,99804.16,100172.37,368.21,917.87
+DDI - Cupom cambial,K24,99236.94,99836.84,599.9,1495.43
+DDI - Cupom cambial,M24,98678.14,99275.54,597.4,1489.19
+DDI - Cupom cambial,N24,98199.33,98792.94,593.61,1479.75
+DDI - Cupom cambial,Q24,97669.11,98259.48,590.37,1471.67
+DDI - Cupom cambial,U24,97145.92,97733.05,587.13,1463.59
+DDI - Cupom cambial,V24,96653.64,97238.12,584.48,1456.99
+DDI - Cupom cambial,X24,96124.08,96695.76,571.68,1425.08
+DDI - Cupom cambial,Z24,95659.92,96227.53,567.61,1414.93
+DDI - Cupom cambial,F25,95157.16,95719.94,562.78,1402.89
+DDI - Cupom cambial,G25,94683.56,95235.13,551.57,1374.95
+DDI - Cupom cambial,H25,94253.52,94799.94,546.42,1362.11
+DDI - Cupom cambial,J25,93864.17,94397.73,533.56,1330.05
+DDI - Cupom cambial,N25,92622.06,93140.13,518.07,1291.44
+DDI - Cupom cambial,V25,91412.76,91917.12,504.36,1257.26
+DDI - Cupom cambial,F26,90259.6,90735.28,475.68,1185.77
+DDI - Cupom cambial,J26,89254.8,89730.94,476.14,1186.92
+DDI - Cupom cambial,N26,88220.75,88685.73,464.98,1159.1
+DDI - Cupom cambial,V26,87244.83,87678.52,433.69,1081.1
+DDI - Cupom cambial,F27,86165.58,86583.95,418.37,1042.91
+DDI - Cupom cambial,J27,85253.76,85659.39,405.63,1011.15
+DDI - Cupom cambial,N27,84306.77,84701.58,394.81,984.18
+DDI - Cupom cambial,V27,83308.18,83666.6,358.42,893.46
+DDI - Cupom cambial,F28,82363.07,82707.82,344.75,859.39
+DDI - Cupom cambial,J28,81476.04,81808.11,332.07,827.78
+DDI - Cupom cambial,N28,80559.56,80909.39,349.83,872.05
+DDI - Cupom cambial,V28,79577.66,79914.65,336.99,840.04
+DDI - Cupom cambial,F29,78601.61,78956.63,355.02,884.99
+DDI - Cupom cambial,J29,0.0,78023.28,0.0,0.0
+DDI - Cupom cambial,F30,74894.38,75214.52,320.14,798.04
+DDI - Cupom cambial,F31,71303.31,71627.34,324.03,807.74
+DDI - Cupom cambial,F32,67870.06,68170.23,300.17,748.26
+DDI - Cupom cambial,F33,64574.16,64891.24,317.08,790.41
+DDI - Cupom cambial,F34,61255.63,61549.05,293.42,731.43
+DDI - Cupom cambial,F35,58176.96,58455.3,278.34,693.84
+DDI - Cupom cambial,F36,55339.44,55601.09,261.65,652.24
+DDI - Cupom cambial,F37,52445.16,52690.19,245.03,610.81
+DDI - Cupom cambial,F38,49886.44,50115.74,229.3,571.59
+DDI - Cupom cambial,F39,47590.86,47811.76,220.9,550.65
+DI1 - DI de 1 dia,J24,99959.87,99959.85,-0.02,0.02
+DI1 - DI de 1 dia,K24,99080.23,99079.93,-0.3,0.3
+DI1 - DI de 1 dia,M24,98274.84,98275.04,0.2,0.2
+DI1 - DI de 1 dia,N24,97529.44,97529.09,-0.35,0.35
+DI1 - DI de 1 dia,Q24,96695.39,96693.33,-2.06,2.06
+DI1 - DI de 1 dia,U24,95919.0,95918.29,-0.71,0.71
+DI1 - DI de 1 dia,V24,95183.65,95182.48,-1.17,1.17
+DI1 - DI de 1 dia,X24,94380.81,94379.12,-1.69,1.69
+DI1 - DI de 1 dia,Z24,93728.54,93725.63,-2.91,2.91
+DI1 - DI de 1 dia,F25,93020.61,93016.2,-4.41,4.41
+DI1 - DI de 1 dia,G25,92275.05,92273.24,-1.81,1.81
+DI1 - DI de 1 dia,H25,91606.81,91604.21,-2.6,2.6
+DI1 - DI de 1 dia,J25,90973.02,90973.73,0.71,0.71
+DI1 - DI de 1 dia,N25,88952.1,88943.37,-8.73,8.73
+DI1 - DI de 1 dia,V25,86748.25,86739.83,-8.42,8.42
+DI1 - DI de 1 dia,F26,84657.2,84650.82,-6.38,6.38
+DI1 - DI de 1 dia,J26,82646.03,82634.92,-11.11,11.11
+DI1 - DI de 1 dia,N26,80664.2,80659.08,-5.12,5.12
+DI1 - DI de 1 dia,V26,78561.29,78549.01,-12.28,12.28
+DI1 - DI de 1 dia,F27,76640.78,76624.06,-16.72,16.72
+DI1 - DI de 1 dia,J27,74745.4,74732.07,-13.33,13.33
+DI1 - DI de 1 dia,N27,72788.43,72770.39,-18.04,18.04
+DI1 - DI de 1 dia,V27,70780.78,70753.17,-27.61,27.61
+DI1 - DI de 1 dia,F28,68918.9,68890.29,-28.61,28.61
+DI1 - DI de 1 dia,J28,67068.98,67032.23,-36.75,36.75
+DI1 - DI de 1 dia,N28,65318.93,65278.65,-40.28,40.28
+DI1 - DI de 1 dia,V28,63552.84,63511.43,-41.41,41.41
+DI1 - DI de 1 dia,F29,61965.73,61931.25,-34.48,34.48
+DI1 - DI de 1 dia,J29,0.0,60302.11,0.0,0.0
+DI1 - DI de 1 dia,F30,55610.1,55550.13,-59.97,59.97
+DI1 - DI de 1 dia,F31,49922.77,49865.73,-57.04,57.04
+DI1 - DI de 1 dia,F32,44858.52,44777.88,-80.64,80.64
+DI1 - DI de 1 dia,F33,40308.3,40235.99,-72.31,72.31
+DI1 - DI de 1 dia,F34,36322.94,36228.1,-94.84,94.84
+DI1 - DI de 1 dia,F35,32609.13,32565.62,-43.51,43.51
+DI1 - DI de 1 dia,F36,29370.13,29327.3,-42.83,42.83
+DI1 - DI de 1 dia,F37,26436.9,26395.01,-41.89,41.89
+DI1 - DI de 1 dia,F38,23836.24,23795.5,-40.74,40.74
+DI1 - DI de 1 dia,F39,21473.54,21434.15,-39.39,39.39
+DOL - Dólar comercial,J24,4977.834,4996.2,18.366,918.3
+DOL - Dólar comercial,K24,4993.483,5023.687,30.204,1510.2
+DOL - Dólar comercial,M24,5006.06,5036.357,30.297,1514.85
+DOL - Dólar comercial,N24,5019.844,5050.207,30.363,1518.15
+DOL - Dólar comercial,Q24,5035.805,5066.352,30.547,1527.35
+DOL - Dólar comercial,U24,5049.372,5079.927,30.555,1527.75
+DOL - Dólar comercial,V24,5062.596,5093.273,30.677,1533.85
+DOL - Dólar comercial,X24,5077.687,5107.977,30.29,1514.5
+DOL - Dólar comercial,Z24,5088.334,5118.685,30.351,1517.55
+DOL - Dólar comercial,F25,5100.112,5130.518,30.406,1520.3
+DOL - Dólar comercial,G25,5115.731,5145.634,29.903,1495.15
+DOL - Dólar comercial,H25,5129.645,5159.529,29.884,1494.2
+DOL - Dólar comercial,J25,5144.044,5173.245,29.201,1460.05
+DOL - Dólar comercial,N25,5191.295,5220.843,29.548,1477.4
+DOL - Dólar comercial,V25,5253.678,5283.178,29.5,1475.0
+DOL - Dólar comercial,F26,5315.534,5343.951,28.417,1420.85
+DOL - Dólar comercial,J26,5384.273,5413.723,29.45,1472.5
+DOL - Dólar comercial,N26,5452.647,5481.733,29.086,1454.3
+DOL - Dólar comercial,V26,5536.669,5565.061,28.392,1419.6
+DOL - Dólar comercial,F27,5605.203,5633.648,28.445,1422.25
+DOL - Dólar comercial,J27,0.0,5702.221,0.0,0.0
+DOL - Dólar comercial,F28,5958.153,5985.576,27.423,1371.15
+DOL - Dólar comercial,F29,6324.08,6356.18,32.1,1605.0
+ELETO - Contrato Futuro de ELET3,J24,42.14,41.95,-0.19,0.19
+ELETO - Contrato Futuro de ELET3,K24,42.46,42.27,-0.19,0.19
+ESX - Contrato Futuro de EURO STOXX 50,M24,5039.0,5045.0,6.0,324.07
+ESX - Contrato Futuro de EURO STOXX 50,U24,5079.0,5086.0,7.0,378.09
+ESX - Contrato Futuro de EURO STOXX 50,Z24,5104.0,5112.0,8.0,432.1
+ETH - Etanol Hidratado,H24,2360.5,2380.0,19.5,585.0
+ETH - Etanol Hidratado,J24,2299.0,2300.0,1.0,30.0
+ETH - Etanol Hidratado,K24,2305.0,2300.0,-5.0,150.0
+ETH - Etanol Hidratado,M24,2313.0,2288.5,-24.5,735.0
+ETH - Etanol Hidratado,N24,2340.0,2336.0,-4.0,120.0
+ETH - Etanol Hidratado,Q24,2357.5,2357.5,0.0,0.0
+ETH - Etanol Hidratado,U24,2409.0,2409.0,0.0,0.0
+ETH - Etanol Hidratado,V24,2475.0,2483.5,8.5,255.0
+ETH - Etanol Hidratado,X24,2529.0,2529.0,0.0,0.0
+ETH - Etanol Hidratado,Z24,2537.0,2537.0,0.0,0.0
+ETH - Etanol Hidratado,F25,2585.0,2585.0,0.0,0.0
+ETH - Etanol Hidratado,G25,2585.0,2585.0,0.0,0.0
+ETH - Etanol Hidratado,H25,2552.0,2552.0,0.0,0.0
+EUP - Euro (em USD),J24,1082.197,1080.0,-2.197,110.01
+EUP - Euro (em USD),K24,1083.584,1080.031,-3.553,177.92
+EUP - Euro (em USD),M24,1085.06,1081.485,-3.575,179.02
+EUP - Euro (em USD),N24,1086.366,1082.774,-3.592,179.87
+EUP - Euro (em USD),Q24,1087.899,1084.339,-3.56,178.27
+EUP - Euro (em USD),U24,0.0,1083.0,0.0,0.0
+EUR - Euro (em Reais),J24,5387.739,5395.896,8.157,407.85
+EUR - Euro (em Reais),K24,5412.403,5426.652,14.249,712.45
+EUR - Euro (em Reais),M24,5433.978,5448.516,14.538,726.9
+EUR - Euro (em Reais),N24,5456.127,5470.936,14.809,740.45
+EUR - Euro (em Reais),Q24,5481.683,5496.935,15.252,762.6
+EUR - Euro (em Reais),U24,0.0,5520.0,0.0,0.0
+FRC - FRA de cupom,M24,6.37,6.36,-0.01,0.0
+FRC - FRA de cupom,N24,6.34,6.34,0.0,0.0
+FRC - FRA de cupom,Q24,6.35,6.35,0.0,0.0
+FRC - FRA de cupom,U24,6.3,6.3,0.0,0.0
+FRC - FRA de cupom,V24,6.33,6.33,0.0,0.0
+FRC - FRA de cupom,X24,6.37,6.39,0.02,0.01
+FRC - FRA de cupom,Z24,6.29,6.31,0.02,0.01
+FRC - FRA de cupom,F25,6.3,6.32,0.02,0.01
+FRC - FRA de cupom,G25,6.25,6.28,0.03,0.01
+FRC - FRA de cupom,H25,6.2,6.23,0.03,0.01
+FRC - FRA de cupom,J25,6.17,6.21,0.04,0.02
+FRC - FRA de cupom,N25,6.05,6.09,0.04,0.02
+FRC - FRA de cupom,V25,5.96,6.0,0.04,0.02
+FRC - FRA de cupom,F26,5.87,5.92,0.05,0.02
+FRC - FRA de cupom,J26,5.76,5.8,0.04,0.02
+FRC - FRA de cupom,N26,5.69,5.73,0.04,0.02
+FRC - FRA de cupom,V26,5.61,5.66,0.05,0.02
+FRC - FRA de cupom,F27,5.59,5.64,0.05,0.02
+FRC - FRA de cupom,J27,5.55,5.6,0.05,0.02
+FRC - FRA de cupom,N27,5.52,5.57,0.05,0.02
+FRC - FRA de cupom,V27,5.52,5.58,0.06,0.03
+FRC - FRA de cupom,F28,5.5,5.56,0.06,0.03
+FRC - FRA de cupom,J28,5.48,5.54,0.06,0.03
+FRC - FRA de cupom,N28,5.48,5.53,0.05,0.02
+FRC - FRA de cupom,V28,5.51,5.56,0.05,0.02
+FRC - FRA de cupom,F29,5.54,5.58,0.04,0.02
+FRC - FRA de cupom,J29,0.0,5.6,0.0,0.0
+FRC - FRA de cupom,F30,5.65,5.69,0.04,0.02
+FRC - FRA de cupom,F31,5.79,5.82,0.03,0.01
+FRC - FRA de cupom,F32,5.94,5.97,0.03,0.01
+FRC - FRA de cupom,F33,6.1,6.12,0.02,0.01
+FRC - FRA de cupom,F34,6.32,6.34,0.02,0.01
+FRC - FRA de cupom,F35,6.52,6.54,0.02,0.01
+FRC - FRA de cupom,F36,6.7,6.72,0.02,0.01
+FRC - FRA de cupom,F37,6.94,6.96,0.02,0.01
+FRC - FRA de cupom,F38,7.13,7.15,0.02,0.01
+FRC - FRA de cupom,F39,7.29,7.31,0.02,0.01
+FRO - FRA de Cupom Cambial em OC1,M24,6.37,6.36,-0.01,0.0
+FRO - FRA de Cupom Cambial em OC1,N24,6.34,6.34,0.0,0.0
+FRO - FRA de Cupom Cambial em OC1,Q24,6.35,6.35,0.0,0.0
+FRO - FRA de Cupom Cambial em OC1,U24,6.3,6.3,0.0,0.0
+FRO - FRA de Cupom Cambial em OC1,V24,6.33,6.33,0.0,0.0
+FRO - FRA de Cupom Cambial em OC1,X24,6.37,6.39,0.02,0.01
+FRO - FRA de Cupom Cambial em OC1,Z24,6.29,6.31,0.02,0.01
+FRO - FRA de Cupom Cambial em OC1,F25,6.3,6.32,0.02,0.01
+FRO - FRA de Cupom Cambial em OC1,G25,6.25,6.28,0.03,0.01
+FRO - FRA de Cupom Cambial em OC1,H25,6.2,6.23,0.03,0.01
+FRO - FRA de Cupom Cambial em OC1,J25,6.17,6.21,0.04,0.02
+FRO - FRA de Cupom Cambial em OC1,N25,6.05,6.09,0.04,0.02
+FRO - FRA de Cupom Cambial em OC1,V25,5.96,6.0,0.04,0.02
+FRO - FRA de Cupom Cambial em OC1,F26,5.87,5.92,0.05,0.02
+FRO - FRA de Cupom Cambial em OC1,J26,5.76,5.8,0.04,0.02
+FRO - FRA de Cupom Cambial em OC1,N26,5.69,5.73,0.04,0.02
+FRO - FRA de Cupom Cambial em OC1,V26,5.61,5.66,0.05,0.02
+FRO - FRA de Cupom Cambial em OC1,F27,5.59,5.64,0.05,0.02
+FRO - FRA de Cupom Cambial em OC1,J27,5.55,5.6,0.05,0.02
+FRO - FRA de Cupom Cambial em OC1,N27,5.52,5.57,0.05,0.02
+FRO - FRA de Cupom Cambial em OC1,V27,5.52,5.58,0.06,0.03
+FRO - FRA de Cupom Cambial em OC1,F28,5.5,5.56,0.06,0.03
+FRO - FRA de Cupom Cambial em OC1,J28,5.48,5.54,0.06,0.03
+FRO - FRA de Cupom Cambial em OC1,N28,5.48,5.53,0.05,0.02
+FRO - FRA de Cupom Cambial em OC1,V28,5.51,5.56,0.05,0.02
+FRO - FRA de Cupom Cambial em OC1,F29,5.54,5.58,0.04,0.02
+FRO - FRA de Cupom Cambial em OC1,J29,0.0,5.6,0.0,0.0
+FRO - FRA de Cupom Cambial em OC1,F30,5.65,5.69,0.04,0.02
+FRO - FRA de Cupom Cambial em OC1,F31,5.79,5.82,0.03,0.01
+FRO - FRA de Cupom Cambial em OC1,F32,5.94,5.97,0.03,0.01
+FRO - FRA de Cupom Cambial em OC1,F33,6.1,6.12,0.02,0.01
+FRO - FRA de Cupom Cambial em OC1,F34,6.32,6.34,0.02,0.01
+FRO - FRA de Cupom Cambial em OC1,F35,6.52,6.54,0.02,0.01
+FRO - FRA de Cupom Cambial em OC1,F36,6.7,6.72,0.02,0.01
+FRO - FRA de Cupom Cambial em OC1,F37,6.94,6.96,0.02,0.01
+FRO - FRA de Cupom Cambial em OC1,F38,7.13,7.15,0.02,0.01
+FRO - FRA de Cupom Cambial em OC1,F39,7.29,7.31,0.02,0.01
+GBP - Libra Esterlina (em Reais),J24,6288.652,6311.45,22.798,797.93
+GBP - Libra Esterlina (em Reais),K24,6309.368,6339.92,30.552,1069.32
+GBP - Libra Esterlina (em Reais),M24,6326.049,6356.652,30.603,1071.1
+GBP - Libra Esterlina (em Reais),N24,6344.107,6374.661,30.554,1069.39
+GBP - Libra Esterlina (em Reais),Q24,6364.818,6395.97,31.152,1090.32
+GBP - Libra Esterlina (em Reais),U24,0.0,6415.0,0.0,0.0
+GBR - Libra Esterlina (em USD),J24,1263.313,1263.25,-0.063,3.15
+GBR - Libra Esterlina (em USD),K24,1263.502,1262.09,-1.412,70.7
+GBR - Libra Esterlina (em USD),M24,1263.71,1262.291,-1.419,71.05
+GBR - Libra Esterlina (em USD),N24,1263.864,1262.448,-1.416,70.9
+GBR - Libra Esterlina (em USD),Q24,1264.062,1262.664,-1.398,70.0
+GBR - Libra Esterlina (em USD),U24,0.0,1262.0,0.0,0.0
+GGBRP - Contrato Futuro de GGBR4,J24,22.11,22.33,0.22,0.22
+GGBRP - Contrato Futuro de GGBR4,K24,22.28,22.5,0.22,0.22
+HSI - Contrato Futuro de Índice BVMF Hang Seng,J24,16407.0,16570.0,163.0,105.95
+HSI - Contrato Futuro de Índice BVMF Hang Seng,K24,16357.0,16522.0,165.0,107.25
+HYPEO - Contrato Futuro de HYPE3,J24,33.61,33.13,-0.48,0.48
+HYPEO - Contrato Futuro de HYPE3,K24,33.86,33.37,-0.49,0.49
+ICF - Café Arábica 4/5,K24,234.95,232.55,-2.4,1201.84
+ICF - Café Arábica 4/5,N24,235.75,233.3,-2.45,1226.88
+ICF - Café Arábica 4/5,U24,231.3,230.25,-1.05,525.8
+ICF - Café Arábica 4/5,Z24,229.85,228.0,-1.85,926.42
+ICF - Café Arábica 4/5,H25,226.65,223.85,-2.8,1402.15
+ICF - Café Arábica 4/5,K25,227.65,224.6,-3.05,1527.34
+ICF - Café Arábica 4/5,U25,229.05,225.9,-3.15,1577.42
+ICF - Café Arábica 4/5,Z25,227.2,224.05,-3.15,1577.42
+ICF - Café Arábica 4/5,H26,227.4,224.25,-3.15,1577.42
+IMV - Contrato Futuro de Indice Merval,H24,1218162.0,1218162.0,0.0,0.0
+IMV - Contrato Futuro de Indice Merval,J24,1297467.0,1297467.0,0.0,0.0
+IMV - Contrato Futuro de Indice Merval,K24,1379215.0,1379215.0,0.0,0.0
+IND - Ibovespa,J24,128382.0,128794.0,412.0,412.0
+IND - Ibovespa,M24,130117.0,130525.0,408.0,408.0
+IND - Ibovespa,Q24,131939.0,132364.0,425.0,425.0
+IND - Ibovespa,V24,133819.0,134251.0,432.0,432.0
+IND - Ibovespa,Z24,135629.0,136069.0,440.0,440.0
+IND - Ibovespa,G25,137246.0,137689.0,443.0,443.0
+IND - Ibovespa,J25,139106.0,139553.0,447.0,447.0
+IND - Ibovespa,M25,140963.0,141427.0,464.0,464.0
+IND - Ibovespa,Q25,142763.0,143234.0,471.0,471.0
+IND - Ibovespa,V25,144886.0,145363.0,477.0,477.0
+IND - Ibovespa,Z25,146998.0,147480.0,482.0,482.0
+IND - Ibovespa,G26,149052.0,149545.0,493.0,493.0
+IND - Ibovespa,J26,151056.0,151561.0,505.0,505.0
+INK - Contrato Futuro de Indice Nikkei,M24,40465.0,40360.0,-105.0,173.66
+INK - Contrato Futuro de Indice Nikkei,U24,40440.0,40335.0,-105.0,173.66
+ISP - S&P 500,M24,5308.0,5313.25,5.25,1314.52
+ISP - S&P 500,U24,5373.25,5378.25,5.0,1251.92
+ISP - S&P 500,Z24,5446.75,5449.0,2.25,563.36
+ITSAP - Contrato Futuro de ITSA4,J24,10.55,10.56,0.01,0.01
+ITSAP - Contrato Futuro de ITSA4,K24,10.63,10.64,0.01,0.01
+ITUBP - Contrato Futuro de ITUB4,J24,34.8,34.85,0.05,0.05
+ITUBP - Contrato Futuro de ITUB4,K24,35.06,35.11,0.05,0.05
+JAP - Iene Japonês (em USD),J24,151289.442,151345.0,55.558,18.37
+JAP - Iene Japonês (em USD),K24,150490.778,150626.28,135.502,44.82
+JAP - Iene Japonês (em USD),M24,149762.023,149831.491,69.468,22.97
+JAP - Iene Japonês (em USD),N24,149126.367,149222.788,96.421,31.89
+JAP - Iene Japonês (em USD),Q24,148403.743,148505.514,101.771,33.66
+JAP - Iene Japonês (em USD),U24,0.0,147800.0,0.0,0.0
+JAP - Iene Japonês (em USD),F25,145272.162,145156.962,-115.2,38.1
+JBSSO - Contrato Futuro de JBSS3,J24,22.04,21.63,-0.41,0.41
+JBSSO - Contrato Futuro de JBSS3,K24,22.21,21.79,-0.42,0.42
+JPY - Iene Japonês (em Reais),J24,3291.51,3301.199,9.689,484.45
+JPY - Iene Japonês (em Reais),K24,3317.89,3338.1,20.21,1010.5
+JPY - Iene Japonês (em Reais),M24,3343.02,3364.11,21.09,1054.5
+JPY - Iene Japonês (em Reais),N24,3366.99,3388.36,21.37,1068.5
+JPY - Iene Japonês (em Reais),Q24,3393.67,3415.2,21.53,1076.5
+JPY - Iene Japonês (em Reais),U24,0.0,3440.0,0.0,0.0
+JPY - Iene Japonês (em Reais),F25,3515.19,3538.0,22.81,1140.5
+JSE - Contrato Futuro de Índice BVMF FTSE/JSE TOP 40,M24,68254.0,68927.0,673.0,269.2
+JSE - Contrato Futuro de Índice BVMF FTSE/JSE TOP 40,U24,69004.0,69677.0,673.0,269.2
+LRENO - Contrato Futuro de LREN3,J24,16.44,17.08,0.64,0.64
+LRENO - Contrato Futuro de LREN3,K24,16.56,17.2,0.64,0.64
+MEX - Peso Mexicano (em USD),J24,16554.098,16621.75,67.652,203.92
+MEX - Peso Mexicano (em USD),K24,16636.654,16698.0,61.346,184.91
+MEX - Peso Mexicano (em USD),M24,16722.692,16788.77,66.078,199.17
+MEX - Peso Mexicano (em USD),N24,16798.641,16859.689,61.048,184.01
+MEX - Peso Mexicano (em USD),Q24,16883.077,16944.179,61.102,184.18
+MEX - Peso Mexicano (em USD),U24,0.0,17000.0,0.0,0.0
+MGLUO - Contrato Futuro de MGLU3,J24,1.82,1.79,-0.03,0.03
+MGLUO - Contrato Futuro de MGLU3,K24,1.81,1.79,-0.02,0.02
+MIX - Contrato Futuro de Índice BVMF MICEX,M24,3339.0,3353.0,14.0,63.0
+MIX - Contrato Futuro de Índice BVMF MICEX,U24,3373.0,3389.0,16.0,72.0
+MXN - Peso Mexicano (em Reais),J24,3005.369,3005.821,0.452,33.9
+MXN - Peso Mexicano (em Reais),K24,2998.327,3004.958,6.631,497.32
+MXN - Peso Mexicano (em Reais),M24,2989.295,2995.915,6.62,496.5
+MXN - Peso Mexicano (em Reais),N24,2983.469,2990.083,6.614,496.05
+MXN - Peso Mexicano (em Reais),Q24,2977.71,2984.662,6.952,521.4
+MXN - Peso Mexicano (em Reais),U24,0.0,2980.0,0.0,0.0
+NOK - Coroa Norueguesa (em USD),J24,10785.973,10848.6,62.627,289.01
+NOK - Coroa Norueguesa (em USD),K24,10777.23,10841.308,64.078,295.7
+NOK - Coroa Norueguesa (em USD),M24,10768.914,10832.536,63.622,293.6
+NOK - Coroa Norueguesa (em USD),N24,10762.09,10825.466,63.376,292.47
+NOK - Coroa Norueguesa (em USD),Q24,10755.19,10818.311,63.121,291.29
+NOK - Coroa Norueguesa (em USD),U24,0.0,10810.0,0.0,0.0
+NTCOO - Contrato Futuro de NTCO3,J24,18.31,17.99,-0.32,0.32
+NTCOO - Contrato Futuro de NTCO3,K24,18.45,18.12,-0.33,0.33
+NZD - Dólar da Nova Zelândia (em Reais),J24,2986.201,2988.477,2.276,170.7
+NZD - Dólar da Nova Zelândia (em Reais),K24,2996.103,3001.641,5.538,415.35
+NZD - Dólar da Nova Zelândia (em Reais),M24,3003.627,3009.21,5.583,418.72
+NZD - Dólar da Nova Zelândia (em Reais),N24,3011.907,3017.477,5.57,417.75
+NZD - Dólar da Nova Zelândia (em Reais),Q24,3020.952,3027.171,6.219,466.42
+NZD - Dólar da Nova Zelândia (em Reais),U24,0.0,3037.0,0.0,0.0
+NZL - Dólar da Nova Zelândia (em USD),J24,599.9,598.15,-1.75,87.63
+NZL - Dólar da Nova Zelândia (em USD),K24,600.0,597.5,-2.5,125.19
+NZL - Dólar da Nova Zelândia (em USD),M24,600.0,597.5,-2.5,125.19
+NZL - Dólar da Nova Zelândia (em USD),N24,600.0,597.5,-2.5,125.19
+NZL - Dólar da Nova Zelândia (em USD),Q24,599.9,597.5,-2.4,120.18
+NZL - Dólar da Nova Zelândia (em USD),U24,0.0,597.5,0.0,0.0
+OC1 - Contrato Futuro de OC1,J24,99959.87,99959.85,-0.02,0.02
+OC1 - Contrato Futuro de OC1,K24,99080.23,99079.93,-0.3,0.3
+OC1 - Contrato Futuro de OC1,M24,98274.84,98275.04,0.2,0.2
+OC1 - Contrato Futuro de OC1,N24,97529.44,97529.09,-0.35,0.35
+OC1 - Contrato Futuro de OC1,Q24,96695.39,96693.33,-2.06,2.06
+OC1 - Contrato Futuro de OC1,U24,95919.0,95918.29,-0.71,0.71
+OC1 - Contrato Futuro de OC1,V24,95183.65,95182.48,-1.17,1.17
+OC1 - Contrato Futuro de OC1,X24,94380.81,94379.12,-1.69,1.69
+OC1 - Contrato Futuro de OC1,Z24,93728.54,93725.63,-2.91,2.91
+OC1 - Contrato Futuro de OC1,F25,93020.61,93016.2,-4.41,4.41
+OC1 - Contrato Futuro de OC1,G25,92275.05,92273.24,-1.81,1.81
+OC1 - Contrato Futuro de OC1,H25,91606.81,91604.21,-2.6,2.6
+OC1 - Contrato Futuro de OC1,J25,90973.02,90973.73,0.71,0.71
+OC1 - Contrato Futuro de OC1,N25,88952.1,88943.37,-8.73,8.73
+OC1 - Contrato Futuro de OC1,V25,86748.25,86739.83,-8.42,8.42
+OC1 - Contrato Futuro de OC1,F26,84657.2,84650.82,-6.38,6.38
+OC1 - Contrato Futuro de OC1,J26,82646.03,82634.92,-11.11,11.11
+OC1 - Contrato Futuro de OC1,N26,80664.2,80659.08,-5.12,5.12
+OC1 - Contrato Futuro de OC1,V26,78561.29,78549.01,-12.28,12.28
+OC1 - Contrato Futuro de OC1,F27,76640.78,76624.06,-16.72,16.72
+OC1 - Contrato Futuro de OC1,J27,74745.4,74732.07,-13.33,13.33
+OC1 - Contrato Futuro de OC1,N27,72788.43,72770.39,-18.04,18.04
+OC1 - Contrato Futuro de OC1,V27,70780.78,70753.17,-27.61,27.61
+OC1 - Contrato Futuro de OC1,F28,68918.9,68890.29,-28.61,28.61
+OC1 - Contrato Futuro de OC1,J28,67068.98,67032.23,-36.75,36.75
+OC1 - Contrato Futuro de OC1,N28,65318.93,65278.65,-40.28,40.28
+OC1 - Contrato Futuro de OC1,V28,63552.84,63511.43,-41.41,41.41
+OC1 - Contrato Futuro de OC1,F29,61965.73,61931.25,-34.48,34.48
+OC1 - Contrato Futuro de OC1,J29,0.0,60302.11,0.0,0.0
+OC1 - Contrato Futuro de OC1,F30,55610.1,55550.13,-59.97,59.97
+OC1 - Contrato Futuro de OC1,F31,49922.77,49865.73,-57.04,57.04
+OC1 - Contrato Futuro de OC1,F32,44858.52,44777.88,-80.64,80.64
+OC1 - Contrato Futuro de OC1,F33,40308.3,40235.99,-72.31,72.31
+OC1 - Contrato Futuro de OC1,F34,36322.94,36228.1,-94.84,94.84
+OC1 - Contrato Futuro de OC1,F35,32609.13,32565.62,-43.51,43.51
+OC1 - Contrato Futuro de OC1,F36,29370.13,29327.3,-42.83,42.83
+OC1 - Contrato Futuro de OC1,F37,26436.9,26395.01,-41.89,41.89
+OC1 - Contrato Futuro de OC1,F38,23836.24,23795.5,-40.74,40.74
+OC1 - Contrato Futuro de OC1,F39,21473.54,21434.15,-39.39,39.39
+PCARO - Contrato Futuro de PCAR3,J24,3.03,2.95,-0.08,0.08
+PCARO - Contrato Futuro de PCAR3,K24,3.02,2.95,-0.07,0.07
+PETRP - Contrato Futuro de PETR4,J24,36.78,37.59,0.81,0.81
+PETRP - Contrato Futuro de PETR4,K24,37.06,37.87,0.81,0.81
+PSSAO - Contrato Futuro de PSSA3,J24,31.75,31.46,-0.29,0.29
+PSSAO - Contrato Futuro de PSSA3,K24,31.98,31.69,-0.29,0.29
+RENTO - Contrato Futuro de RENT3,J24,54.27,55.01,0.74,0.74
+RENTO - Contrato Futuro de RENT3,K24,54.67,55.42,0.75,0.75
+RUB - Rublo Russo (em USD),J24,92475.324,92575.0,99.676,54.06
+RUB - Rublo Russo (em USD),K24,93474.945,93166.944,-308.001,167.06
+RUB - Rublo Russo (em USD),M24,94374.518,94124.335,-250.183,135.7
+RUB - Rublo Russo (em USD),N24,95429.946,95003.504,-426.442,231.3
+RUB - Rublo Russo (em USD),Q24,96486.397,96142.014,-344.383,186.79
+RUB - Rublo Russo (em USD),U24,0.0,97000.0,0.0,0.0
+SEK - Coroa Sueca (em USD),J24,10619.977,10692.6,72.623,339.97
+SEK - Coroa Sueca (em USD),K24,10605.086,10682.652,77.566,363.11
+SEK - Coroa Sueca (em USD),M24,10588.503,10667.212,78.709,368.46
+SEK - Coroa Sueca (em USD),N24,10575.108,10653.939,78.831,369.03
+SEK - Coroa Sueca (em USD),Q24,10559.869,10637.766,77.897,364.66
+SEK - Coroa Sueca (em USD),U24,0.0,10620.0,0.0,0.0
+SJC - Soja Financeira Cross Listing,K24,26.2897,26.2676,-0.0221,49.8
+SJC - Soja Financeira Cross Listing,N24,26.5983,26.5708,-0.0275,61.97
+SJC - Soja Financeira Cross Listing,Q24,26.5653,26.5377,-0.0276,62.19
+SJC - Soja Financeira Cross Listing,U24,26.1299,26.1629,0.033,74.36
+SJC - Soja Financeira Cross Listing,X24,26.0913,26.1519,0.0606,136.55
+SJC - Soja Financeira Cross Listing,F25,26.3007,26.3834,0.0827,186.36
+SJC - Soja Financeira Cross Listing,H25,26.1739,26.3338,0.1599,360.32
+SJC - Soja Financeira Cross Listing,K25,26.196,26.3779,0.1819,409.9
+SJC - Soja Financeira Cross Listing,N25,26.2952,26.4716,0.1764,397.51
+SJC - Soja Financeira Cross Listing,Q25,26.1023,26.3062,0.2039,459.48
+SJC - Soja Financeira Cross Listing,U25,25.5952,25.7992,0.204,459.7
+SJC - Soja Financeira Cross Listing,X25,25.4078,25.6338,0.226,509.28
+SOY - Soja FOB Santos,K24,434.2,435.0,0.8,135.89
+SOY - Soja FOB Santos,N24,447.4,449.4,2.0,339.74
+SOY - Soja FOB Santos,U24,454.0,454.0,0.0,0.0
+SOY - Soja FOB Santos,X24,468.4,469.0,0.6,101.92
+SOY - Soja FOB Santos,H25,420.4,423.0,2.6,441.66
+SUZBO - Contrato Futuro de SUZB3,J24,64.21,64.37,0.16,0.16
+SUZBO - Contrato Futuro de SUZB3,K24,64.69,64.85,0.16,0.16
+SWI - Franco Suíço (em USD),J24,905.3,900.7,-4.6,255.46
+SWI - Franco Suíço (em USD),K24,902.0,898.5,-3.5,194.37
+SWI - Franco Suíço (em USD),M24,898.6,895.1,-3.5,194.37
+SWI - Franco Suíço (em USD),N24,895.8,892.3,-3.5,194.37
+SWI - Franco Suíço (em USD),Q24,892.5,889.0,-3.5,194.37
+SWI - Franco Suíço (em USD),U24,0.0,887.0,0.0,0.0
+T10 - US T-Note 10 anos,M24,110.875,110.7968,-0.0782,390.7
+T10 - US T-Note 10 anos,U24,111.2812,111.1718,-0.1094,546.58
+TRY - Lira Turca (em Reais),J24,153.954,154.432,0.478,35.85
+TRY - Lira Turca (em Reais),K24,149.037,149.841,0.804,60.3
+TRY - Lira Turca (em Reais),M24,144.382,144.294,-0.088,6.6
+TRY - Lira Turca (em Reais),N24,139.967,140.322,0.355,26.62
+TRY - Lira Turca (em Reais),Q24,135.38,135.51,0.13,9.75
+TRY - Lira Turca (em Reais),U24,0.0,133.0,0.0,0.0
+TUQ - Lira Turca (em USD),J24,32333.2,32352.0,18.8,29.14
+TUQ - Lira Turca (em USD),K24,33505.1,33526.6,21.5,33.33
+TUQ - Lira Turca (em USD),M24,34672.3,34903.3,231.0,358.14
+TUQ - Lira Turca (em USD),N24,35864.4,35990.0,125.6,194.73
+TUQ - Lira Turca (em USD),Q24,37197.1,37387.5,190.4,295.19
+TUQ - Lira Turca (em USD),U24,0.0,39000.0,0.0,0.0
+USIMA - Contrato Futuro de USIM5,J24,10.1,10.07,-0.03,0.03
+USIMA - Contrato Futuro de USIM5,K24,10.18,10.14,-0.04,0.04
+VALEO - Contrato Futuro de VALE3,J24,60.99,61.2,0.21,0.21
+VALEO - Contrato Futuro de VALE3,K24,61.45,61.66,0.21,0.21
+WDO - Dólar Mini - WDO,J24,4977.834,4996.2,18.366,183.66
+WDO - Dólar Mini - WDO,K24,4993.483,5023.687,30.204,302.04
+WDO - Dólar Mini - WDO,M24,5006.06,5036.357,30.297,302.97
+WDO - Dólar Mini - WDO,N24,5019.844,5050.207,30.363,303.63
+WDO - Dólar Mini - WDO,Q24,5035.805,5066.352,30.547,305.47
+WDO - Dólar Mini - WDO,U24,5049.372,5079.927,30.555,305.55
+WDO - Dólar Mini - WDO,V24,5062.596,5093.273,30.677,306.77
+WDO - Dólar Mini - WDO,X24,0.0,5107.977,0.0,0.0
+WDO - Dólar Mini - WDO,F25,5100.112,5130.518,30.406,304.06
+WDO - Dólar Mini - WDO,G25,5115.731,5145.634,29.903,299.03
+WDO - Dólar Mini - WDO,H25,5129.645,5159.529,29.884,298.84
+WDO - Dólar Mini - WDO,J25,5144.044,5173.245,29.201,292.01
+WEGEO - Contrato Futuro de WEGE3,J24,38.8,38.43,-0.37,0.37
+WEGEO - Contrato Futuro de WEGE3,K24,39.09,38.72,-0.37,0.37
+WEU - EURO MÍNI,J24,5387.739,5395.896,8.157,81.57
+WEU - EURO MÍNI,K24,5412.403,5426.652,14.249,142.49
+WEU - EURO MÍNI,M24,0.0,5448.516,0.0,0.0
+WIN - Ibovespa Mini,J24,128382.0,128794.0,412.0,82.4
+WIN - Ibovespa Mini,M24,130117.0,130525.0,408.0,81.6
+WIN - Ibovespa Mini,Q24,131939.0,132364.0,425.0,85.0
+WIN - Ibovespa Mini,V24,133819.0,134251.0,432.0,86.4
+WIN - Ibovespa Mini,Z24,135629.0,136069.0,440.0,88.0
+WIN - Ibovespa Mini,G25,137246.0,137689.0,443.0,88.6
+WIN - Ibovespa Mini,J25,139106.0,139553.0,447.0,89.4
+WIN - Ibovespa Mini,M25,140963.0,141427.0,464.0,92.8
+WIN - Ibovespa Mini,Q25,142763.0,143234.0,471.0,94.2
+WIN - Ibovespa Mini,V25,144886.0,145363.0,477.0,95.4
+WIN - Ibovespa Mini,Z25,146998.0,147480.0,482.0,96.4
+WIN - Ibovespa Mini,G26,149052.0,149545.0,493.0,98.6
+WIN - Ibovespa Mini,J26,151056.0,151561.0,505.0,101.0
+WSP - Microcontrato Futuro de S&P 500,M24,5308.0,5313.25,5.25,65.72
+WSP - Microcontrato Futuro de S&P 500,U24,5373.25,5378.25,5.0,62.59
+XFI - Futuro de IFIX,J24,3486.5,3499.6,13.1,131.0
+XFI - Futuro de IFIX,M24,3486.5,3499.6,13.1,131.0
+ZAR - Rande da África do Sul (em Reais),J24,2634.164,2638.432,4.268,149.38
+ZAR - Rande da África do Sul (em Reais),K24,2635.346,2646.375,11.029,386.01
+ZAR - Rande da África do Sul (em Reais),M24,2634.677,2645.731,11.054,386.89
+ZAR - Rande da África do Sul (em Reais),N24,2635.227,2646.34,11.113,388.95
+ZAR - Rande da África do Sul (em Reais),Q24,2635.653,2646.853,11.2,392.0
+ZAR - Rande da África do Sul (em Reais),U24,0.0,2646.0,0.0,0.0
