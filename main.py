@@ -16,13 +16,21 @@ if __name__ == "__main__":
         
         choice = input("\nEnter your choice: ").strip()
         if choice == "1":
-            obj.download_data()
+            confirm = input("Are you sure you want to download data (parallel)? (y/n): ").strip().lower()
+            if confirm == "y":
+                obj.download_data()
+            else:
+                print("Download cancelled.")
         elif choice == "2":
             print(obj)
         elif choice == "3":
             break
         elif choice == "4":
-            obj.download_data_single()
+            confirm = input("Are you sure you want to download data (single thread)? (y/n): ").strip().lower()
+            if confirm == "y":
+                obj.download_data_single()
+            else:
+                print("Download cancelled.")
         elif choice == "0":
             try:
                 # Ask user for new start and end dates

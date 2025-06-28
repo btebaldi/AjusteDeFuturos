@@ -28,8 +28,8 @@ class AjustesProcessor:
             f"  Start Date: {self.start_date}\n"
             f"  End Date: {self.end_date}\n"
             f"  Verbose Level: {self.verbose}\n"
-            f"  Output Directory: {self.outputSwapDiPre_dir}\n"
-            f"  Output File Mask: {self.outputSwapDiPre_fileMask}\n"
+            f"  Output Directory: {self.output_dir}\n"
+            f"  Output File Mask: {self.output_fileMask}\n"
             f"  Dates to Process: {len(self.dateCollection)} dates"
         )
         return config_str

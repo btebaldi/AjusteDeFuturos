@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 from datetime import date
+from io import StringIO
 
 class AjustesDownloader:
     def __init__(self, verbose=True):
@@ -32,7 +33,8 @@ class AjustesDownloader:
 
         # Parse the HTML table and extract the data into a DataFrame
         try :
-            ajustesTables = pd.read_html(self._fetch_html(mDate), thousands='.', decimal=',', attrs={'id': 'tblDadosAjustes'})
+            html_content = self._fetch_html(mDate)
+            tableList = pd.read_html(StringIO(html_content), thousands='.', decimal=',', attrs={'id': 'tblDadosAjustes'})
         except ValueError as e:
             # Print error if verbose and return None on failure
             if self.verbose:
@@ -44,10 +46,10 @@ class AjustesDownloader:
             return pd.DataFrame()
             
         # Validates that only one table is found
-        if len(ajustesTables) != 1:
-            raise ValueError(f"Esperava apenas uma tabela, mas encontrei {len(ajustesTables)} tabelas.")
+        if len(tableList) != 1:
+            raise ValueError(f"Esperava apenas uma tabela, mas encontrei {len(tableList)} tabelas.")
         else :
-            ajustesTable = ajustesTables[0]
+            ajustesTable = tableList[0]
 
         # Rename columns in ajustesTable[0]
         ajustesTable.columns = ["Mercadoria", "Vencimento", "AjusteAnterior", "AjusteAtual", "Variacao", "AjustePorContrato"]
@@ -56,6 +58,7 @@ class AjustesDownloader:
         ajustesTable['Mercadoria'] = ajustesTable['Mercadoria'].ffill()
 
         return ajustesTable
+
 
     def download(self, mDate: date) -> pd.DataFrame:
 
@@ -75,9 +78,9 @@ class AjustesDownloader:
         
 if __name__ == "__main__":
     # Example usage
-    downloader = AjusteDownloader()
+    downloader = AjustesDownloader()
     mDate = date(2023, 6, 26)  # Example date
-    mDate = date(2023, 12, 25)  # Example date
+    mDate = date(2023, 12, 26)  # Example date
     # df = downloader._fetch_html(mDate)
     df = downloader.download(mDate)
     mDate = date(2023, 12, 26)  # Example date
